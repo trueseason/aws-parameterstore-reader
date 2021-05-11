@@ -1,6 +1,6 @@
 {
   "name": "aws-parameterstore-reader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sample of AWS Parameter Store Config Reader.",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/trueseason/aws-parameterstore-reader.git"
   },
   "dependencies": {
-    "aws-sdk": "^6.13.4"
+    "aws-sdk": "^2.904.0"
   },
   "devDependencies": {},
   "bugs": {
