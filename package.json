@@ -1,0 +1,26 @@
+{
+  "name": "aws-parameterstore-reader",
+  "version": "0.1.0",
+  "description": "A sample of AWS Parameter Store Config Reader.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trueseason/aws-parameterstore-reader.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^6.13.4"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/trueseason/aws-parameterstore-reader/issues"
+  },
+  "homepage": "https://github.com/trueseason/aws-parameterstore-reader#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Xu",
+  "license": "MIT"
+}
