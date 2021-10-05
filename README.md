@@ -2,6 +2,8 @@
 
 This repository is a sample of AWS Parameter Store Config Reader, originally from aws-parameterstore-json-reader with some improvements.
 
+aws-adk has been moved to dev-dependencies for smaller size of output package. Please add it to your dependencies if required.
+
 ## dependencies
 aws-sdk
 
